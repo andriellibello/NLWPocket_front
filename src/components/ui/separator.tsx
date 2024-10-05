@@ -1,5 +1,4 @@
 import type { ComponentProps } from 'react'
-import React from 'react'
 import { twMerge } from 'tailwind-merge'
 
 export function Separator(props: ComponentProps<'div'>) {
